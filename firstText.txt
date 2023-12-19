@@ -2,3 +2,5 @@ ELDERLY CARE Android
 The Elderly Care App for Android is a compassionate and comprehensive mobile solution meticulously crafted to cater to the unique needs of seniors. Leveraging the Android platform, this app seamlessly integrates technology to enhance the overall well-being of elderly individuals, focusing on medication management, timely alarms, exercise guidance, and quick access to healthcare resources.
 
 thsi is new addition
+
+2nd addition
